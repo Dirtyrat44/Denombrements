@@ -1,4 +1,11 @@
-﻿using System;
+﻿/**
+* titre : Dénombrements
+* description : Application mathématiques pour tester des connaissance sur les dénombrements
+* auteur : DirtyRat
+* date création : 02/11/2023
+* date dernière modification : 02/11/2023
+*/
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;

@@ -10,7 +10,7 @@ namespace Denombrements
     {
         static void Main(string[] args)
         {
-            int c = 1;
+            int c = 1; 
             while (c != 0)
             {
                 Console.WriteLine("Permutation ...................... 1");
